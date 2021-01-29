@@ -6,3 +6,5 @@
 _another bold_
 *italic format*
 _anotheer italicformat_
+
+_**italic and bold**_

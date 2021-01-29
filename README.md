@@ -21,11 +21,11 @@ _**italic and bold**_
     
     
 ##unordered list
--.year1
--.year2
+-  year1
+-  year2
       *  year2a
       *  yearb
--.year3
-      *.year3a
-      *.year3b
+-  year3
+      *  year3a
+      *  year3b
       
